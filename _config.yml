@@ -1,6 +1,22 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+#title: Minimal theme
+#logo: /assets/img/logo.png
+#description: Minimal is a theme for GitHub Pages.
+#show_downloads: true
+#google_analytics:
+#theme: jekyll-theme-minimal
+title: <p align="center"> Varun Sharma </p>
+logo: /assets/img/profile_pic.jpg
+
+description:
+  <p align="center">
+#  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/varunsharma8898/">LinkedIn</a> |
+  <a href="https://github.com/varunsharma8898">GitHub</a>
+  
+  <br>
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
